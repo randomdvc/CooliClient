@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cooliclient",
+  "name": "CooliClient",
+  "description": "CooliMod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["spykedev"],
+  "credits": "spykedev, for making this Amazing mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
